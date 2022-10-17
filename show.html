@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+    <head>
+
+        <title>
+            Eyelashes Constructor show deeplink
+        </title>
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <style>
+
+            body {
+                text-align: center;
+                padding: 2em;
+            }
+
+            p {
+               margin: 3em; 
+            }
+
+        </style>
+
+    </head>
+    <body>
+
+        <a id="link" href="">
+            View scheme
+        </a>
+        <p>
+            If the scheme does not open, most likely you do not have the application installed <br/>or you are not using Android
+        </p>
+        <a href="https://play.google.com/store/apps/details?id=com.ivigor13.eyelashesconstructor&gl=US">
+            Install Eyelashes Constructor
+        </a>
+
+        <script>
+
+            var deeplinkPrefix = 'intent://eyelashes-constructor/show?scheme=';
+
+            getParameter = (key) => {
+                address = window.location.search;
+                parameterList = new URLSearchParams(address);
+                return parameterList.get(key);
+            }
+
+            var link = document.getElementById('link');
+            link.href = deeplinkPrefix + getParameter("scheme");
+
+            link.click();
+
+        </script>
+        
+    </body>
+</html>
