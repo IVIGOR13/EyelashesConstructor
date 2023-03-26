@@ -1,5 +1,5 @@
 # EyelashesConstructor
-Privacy Policy and Terms & Conditions for mobile app Eyelashes Constructor
+Privacy Policy and Terms & Conditions for mobile app [Eyelashes Constructor](https://play.google.com/store/apps/details?id=com.ivigor13.eyelashesconstructor)
 
 ---
 
