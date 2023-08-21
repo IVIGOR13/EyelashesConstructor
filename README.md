@@ -23,6 +23,8 @@ Link to the privacy policy of third-party service providers used by the app
 
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 
 **Log Data**
 
@@ -61,7 +63,7 @@ These Services do not address anyone under the age of 13. I do not knowingly col
 
 I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2022-10-01
+This policy is effective as of 2023-08-22
 
 **Contact Us**
 
@@ -85,6 +87,8 @@ Link to Terms and Conditions of third-party service providers used by the app
 
 *   [Google Play Services](https://policies.google.com/terms)
 *   [AdMob](https://developers.google.com/admob/terms)
+*   [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+*   [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 
 You should be aware that there are certain things that ivigor13 will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but ivigor13 cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
@@ -100,7 +104,7 @@ At some point, we may wish to update the app. The app is currently available on 
 
 I may update our Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page.
 
-These terms and conditions are effective as of 2022-10-01
+These terms and conditions are effective as of 2023-08-22
 
 **Contact Us**
 
